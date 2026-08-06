@@ -1,0 +1,16 @@
+{
+  "name": "demo_express_app",
+  "version": "1.0.0",
+  "description": "Devops demo app",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
